@@ -1,0 +1,46 @@
+.list_container{
+    margin-left: 5rem;
+}
+.list {
+    display:flex;
+    justify-content: space-around;
+    border-radius: 0.75rem;
+    border: 1px solid black;
+    width: 15rem;
+    display: flex;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 1rem;
+    margin-top: 5px;
+}
+.toggle_button{
+    width: 7rem;
+    height: 2rem;
+    margin-left: 0.75rem;
+    padding: 2px;
+    border-radius: 0.75rem;
+    background-color: white;
+    border: solid 1px whitesmoke;
+    
+}
+.task_input{
+    width: 15rem;
+    height: 2rem;
+    border-radius: 0.75rem;
+    border: 1px solid white ;
+    background-color: lightgray;
+}
+.form_input{
+    display: flex;
+    flex-direction: column;
+}
+.form_button{
+    width: 15rem;
+    height: 2rem;
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    margin: 5px 0 5px 0;
+
+
+}
