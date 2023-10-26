@@ -54,7 +54,6 @@ const ToDoList = () => {
                             :
                             <button className='toggle_button'>✅</button>
                         }
-
                     </li>
                 ))}
             </ul>
